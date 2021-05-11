@@ -4,5 +4,5 @@ Here is my README.file
 ## subtitle
 
 This is all *really* **very** exciting. \
-[Link text (http://github.com) \
-This is `monospace code`. \
+[Link text](http://github.com) \
+This is `monospace code`.
